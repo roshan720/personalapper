@@ -1,0 +1,47 @@
+body{
+    background-color:#dafad8;
+    margin: 0px;
+}
+h1 { margin: 0px;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+}
+p{  margin: 0px;
+    text-align: center;
+    font-weight: normal;
+    font-style: italic;
+font-weight: lighter;}
+.cont1{
+    background-color: gold;
+    width: 200px;
+    height: 200px;
+}
+.cont2{
+    background-color: rgb(32, 218, 103);
+    width: 200px;
+    height: 200px;
+}
+img{
+    border-radius: 200px;
+    width: 180px;
+    height: 180px;
+}
+.center,.skill {
+    display: block;
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80px;
+    width: 80px;
+  }
+h2{
+    margin-top: 30px;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+}
+.co
+{  
+    margin-top: 30px;
+    font-family: cursive;
+    text-align: center;
+}
